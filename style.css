@@ -1,0 +1,32 @@
+body{
+    background-color: burlywood;
+    
+}
+#head{
+    color:white;
+    font-size: 60px;
+}
+#player1{
+font-size: 40px;
+border: dotted;
+}
+
+#join1{
+    background-color: coral;
+    color:aliceblue;
+    
+}
+
+#player2{
+font-size: 40px;
+border: dotted;
+}
+
+#join2{
+    background-color: coral;
+    color:aliceblue;
+    
+}
+#credit{
+   margin-bottom: 0px;
+}
